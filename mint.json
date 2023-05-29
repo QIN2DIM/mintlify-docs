@@ -23,11 +23,6 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "rectangle-terminal",
-      "url": "api-reference"
-    },
-    {
       "name": "Join our Slack",
       "icon": "slack",
       "url": "https://slack.com"
