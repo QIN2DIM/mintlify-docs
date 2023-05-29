@@ -23,19 +23,19 @@
   },
   "anchors": [
     {
-      "name": "API Reference",
+      "name": "Documentation",
       "icon": "rectangle-terminal",
       "url": "api-reference"
     },
     {
-      "name": "Changelog",
-      "icon": "list",
-      "url": "https://mintlify.com"
+      "name": "Join our Slack",
+      "icon": "slack",
+      "url": "https://slack.com"
     },
     {
-      "name": "Community",
-      "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/QIN2DIM/mintlify-docs"
     }
   ],
   "navigation": [
