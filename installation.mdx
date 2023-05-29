@@ -1,0 +1,29 @@
+## Installation
+
+The very initial version of XLang.
+
+## Get Start
+
+Under the `xlang/` directory:
+
+```bash
+# Configure the environment
+conda create -n xlang python=3.10
+source activate xlang
+pip install -r requirements.txt
+
+# Run the flask backend server
+export OPENAI_API_KEY=<your-api-key>
+export FLASK_APP=app/main.py
+flask run --port 8000
+```
+
+Then you can query the RESTful services in the frontend repository.
+
+## Documentation
+
+```
+pip install furo
+cd docs
+make html
+```

@@ -25,7 +25,7 @@
     {
       "name": "Join our Slack",
       "icon": "slack",
-      "url": "https://slack.com"
+      "url": "https://jjj-mdq3738.slack.com"
     },
     {
       "name": "GitHub",
@@ -36,7 +36,7 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "features"]
+      "pages": ["introduction", "features", "installation"]
     }
   ],
   "footerSocials": {
